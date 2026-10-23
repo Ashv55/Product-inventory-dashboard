@@ -1,0 +1,41 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  color: #2563eb;
+}
+
+p {
+  color: #555;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin: 15px auto;
+  max-width: 500px;
+  border-radius: 10px;
+  border: 1px solid #ddd;
+}
+
+.card h2 {
+  color: #333;
+}
+
+.instructions {
+  background-color: #eaf2ff;
+}
+
+.instructions h2 {
+  color: #2563eb;
+}
+
+.footer {
+  margin-top: 25px;
+  font-size: 14px;
+}
